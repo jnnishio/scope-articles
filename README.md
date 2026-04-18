@@ -15,10 +15,11 @@ Articles published in the BISV Scope Research Journal.
 
 ### History & Society
 
-5. "Strait Business: The Neo-Colonial Exploitation of Taiwan", Spring Issue 2025 [view]
+<ol start="5">
+  <li>5. "Strait Business: The Neo-Colonial Exploitation of Taiwan", Spring Issue 2025 [view]</li>
+  <li>. "From Rags to Riches: The Portuguese Dominion of the Transatlantic Slave Trade, 1500-1600", Spring Issue 2025 <a href="https://bisvscope.square.site/uploads/b/de96c600-3a06-11ed-ae44-f3cb498308e3/73747700-271e-11f0-b2f9-b166ff35ddf5.pdf#page=46">[view]</a></li>
+</ol>
 
-6. "From Rags to Riches: The Portuguese Dominion of the Transatlantic Slave Trade, 1500-1600", Spring Issue 2025 [[view](https://bisvscope.square.site/uploads/b/de96c600-3a06-11ed-ae44-f3cb498308e3/73747700-271e-11f0-b2f9-b166ff35ddf5.pdf#page=46)]
 
-{:start="5"}
 
 [LinkedIn](https://www.linkedin.com/in/jason-nishio/details/publications/) | [BISV "The Scope" Research Journal](https://bisvscope.square.site/) | [Google Scholar](https://scholar.google.com/citations?user=mMG0ENcAAAAJ)
