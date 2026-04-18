@@ -14,17 +14,17 @@ Articles published in the BISV Scope Research Journal.
 
 
 ### History & Society
-<div style="line-height: 1.5; margin-bottom: 1em;">
-    <ol start="5">
-    <li>"Strait Business: The Neo-Colonial Exploitation of Taiwan", Spring Issue 2025 [<a href="https://jlxfeeqijbujpdmremaq.supabase.co/storage/v1/object/public/pdfs/a5867b9de3614c90bfd25731d7aff131_The_Scope_-_Spring_Issue_2025_4.pdf#page=48&zoom=0,0,185">view</a>]</li>
-    <li>"From Rags to Riches: The Portuguese Dominion of the Transatlantic Slave Trade, 1500-1600", Spring Issue 2025 [<a href="https://jlxfeeqijbujpdmremaq.supabase.co/storage/v1/object/public/pdfs/a5867b9de3614c90bfd25731d7aff131_The_Scope_-_Spring_Issue_2025_4.pdf#page=46">view</a>]</li>
-    </ol>
-</div>
 
-#### See the full issues: https://thescopejournal.org/publications
+<ol start="5">
+<li markdown="1">"Strait Business: The Neo-Colonial Exploitation of Taiwan", Spring Issue 2025 [<a href="https://jlxfeeqijbujpdmremaq.supabase.co/storage/v1/object/public/pdfs/a5867b9de3614c90bfd25731d7aff131_The_Scope_-_Spring_Issue_2025_4.pdf#page=48&zoom=0,0,185">view</a>]</li>
+<li markdown="1">"From Rags to Riches: The Portuguese Dominion of the Transatlantic Slave Trade, 1500-1600", Spring Issue 2025 [<a href="https://jlxfeeqijbujpdmremaq.supabase.co/storage/v1/object/public/pdfs/a5867b9de3614c90bfd25731d7aff131_The_Scope_-_Spring_Issue_2025_4.pdf#page=46">view</a>]</li>
+</ol>
 
+#### See the full issues: [thescopejournal.org/publications](https://thescopejournal.org/publications)
 
-
+**See my other publications:**
 
 
-[LinkedIn](https://www.linkedin.com/in/jason-nishio/details/publications/) | [thescopejournal.org](https://thescopejournal.org/) | [Google Scholar](https://scholar.google.com/citations?user=mMG0ENcAAAAJ)
+
+
+[LinkedIn](https://www.linkedin.com/in/jason-nishio/details/publications/) | [Google Scholar](https://scholar.google.com/citations?user=mMG0ENcAAAAJ) | [thescopejournal.org](https://thescopejournal.org/)
