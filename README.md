@@ -1,6 +1,6 @@
 
-# Scope Research Journal Publications by Jason Nishio
-Articles published in the BISV Scope Research Journal.
+# Scope Journal Publications by Jason Nishio
+Articles published in the [BISV Scope Research Journal](https://thescopejournal.org).
 
 
 ### AI, Computing, & Healthcare
