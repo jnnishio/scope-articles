@@ -1,10 +1,10 @@
 
 # Scope Journal Publications by Jason Nishio
-Articles published in the [BISV Scope Research Journal](https://thescopejournal.org).
+Articles published in the [Scope Research Journal](https://thescopejournal.org), BASIS Independent Silicon Valley Upper School's peer-reviewed research journal.
 
 
 ### AI, Computing, & Healthcare
-1. "AI With Agency: Breakthroughs with OpenClaw and the Future with Autonomous Intelligent Agents", Spring Issue 2026 (coming soon)
+1. "AI With Agency: Breakthroughs with OpenClaw and the Future with Autonomous Intelligent Agents", Spring Issue 2026 [[view](https://jlxfeeqijbujpdmremaq.supabase.co/storage/v1/object/public/pdfs/1749212b643048f5b76361a1297f3b18_the_scope_spring_issue_2026.pdf#page=14&zoom=0,0,220)]
 
 2. "Principles of Trustworthy AI in Healthcare: Explainability, Transparency, Vigilance, Regulation", Fall Issue 2025  [[view](https://bisvscope.square.site/uploads/b/de96c600-3a06-11ed-ae44-f3cb498308e3/88896760-dafe-11f0-8912-d3f53ebd17c6.pdf#page=8&zoom=0,0,424)]
 
